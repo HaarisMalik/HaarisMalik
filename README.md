@@ -4,7 +4,7 @@ Hi 👋 My name is Haaris Malik
 Frontend Developer
 ------------------
 
-I am a post graduate student from George Brown College (School of Design) with a strong passion for building websites and applications with great user experiences. I have been coding for couple years now and have developed a passion for frontend, from my experience in college and from real world projects that I created on my own or collaborated within a team, I have developed deep knowledge into UX/UI design and the best design practices out there and the skills needed to work within a team environment or working independently which helped me down the road into becoming a frontend developer.
+I am a post graduate student from George Brown College (Interaction Design and Development) with a strong passion for building websites and applications with great user experiences. I have been coding for couple years now and have developed a passion for frontend, from my experience in college and from real world projects that I created on my own or collaborated within a team, I have developed deep knowledge into UX/UI design and the best design practices out there and the skills needed to work within a team environment or working independently which helped me down the road into becoming a frontend developer.
 
 * 🌍  I'm based in The Greater Toronto Area
 * 🖥️  See my portfolio at [haarismalik.ca](http://haarismalik.ca)
