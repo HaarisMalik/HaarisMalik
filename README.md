@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a post graduate student from George Brown College (Interaction Design and Development) with a strong passion for building websites and applications with great user experiences. I have been coding for couple years now and have developed a passion for frontend, from my experience in college and from real world projects that I developed on my own or collaborated within a team, I have developed deep knowledge into UX/UI design and the best design practices out there and the skills needed to  work within a team environment or working independently. Programming offers an engaging challenge to continually learn and improve our skills and that's what I enjoy the most. I strive to improve my creativity and professionalism with my designs and solve challenging engineering problems everyday.
+I am a graduate student from George Brown College (Interaction Design and Development) with a strong passion for building websites and applications with great user experiences. I have been coding for couple years now and have developed a passion for frontend, from my experience in college and from real world projects that I developed on my own or collaborated within a team, I have developed deep knowledge into UX/UI design and the best design practices out there and the skills needed to  work within a team environment or working independently. Programming offers an engaging challenge to continually learn and improve our skills and that's what I enjoy the most.
 
 * 🌍  I'm based in The Greater Toronto Area
 * 🖥️  See my portfolio at [haarismalik.ca](http://haarismalik.ca)
 * ✉️  You can contact me at [haaris.malik416@gmail.com](mailto:haaris.malik416@gmail.com)
-* 🧠  I'm learning React and MySQL
+* 🧠  I'm learning Redux and MySQL
 * 🤝  I'm open to collaborating on Interesting projects where my skills may apply to.
 
 ### Skills
